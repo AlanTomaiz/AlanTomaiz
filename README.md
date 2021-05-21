@@ -17,8 +17,8 @@
 
 ## Coding Actibity
 <a href="https://github.com/rayanaprata">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=alantomaiz&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=alantomaiz&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
 <a href="https://github.com/rayanaprata">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantomaiz&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantomaiz&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
