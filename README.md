@@ -3,7 +3,7 @@
 :octocat: Welcome to my Github profile. My name is Alanderson Tomaiz and I'm 24 years old.
 
 <p align="left">
-  <img src="pc.svg" width="200px" alt="Computador">
+  <img src="pc.svg" width="200px" align="right" alt="Computador">
 </p>
 
 - 🏝 I'm from Paraná, Brazil
