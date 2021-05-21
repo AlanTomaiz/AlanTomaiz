@@ -26,6 +26,16 @@
 
 <br>
 <br>
-<br>
-<br>
-TESTE
+<p align="center">
+  <a href="https://codepen.io/alantomaiz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alantomaiz" height="20" width="20" />
+  </a>
+
+  <a href="https://fb.com/alantomaiz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alantomaiz" height="20" width="20" />
+  </a>
+
+  <a href="https://instagram.com/alantomaiz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alantomaiz" height="20" width="20" />
+  </a>
+</p>
