@@ -23,6 +23,7 @@
   <img width="415px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alantomaiz&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
 
+</br>
 
 <p align="center">
 <a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
