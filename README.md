@@ -1,8 +1,9 @@
 ## Hello guys, what's up? :)
 
 <p align="left">
-  <img src="pc.svg" width="200px" align="right" alt="Computador">
+  <img src="pc.svg" width="250px" align="right" alt="Computador">
 </p>
+
 :octocat: Welcome to my Github profile. My name is Alanderson Tomaiz and I'm 24 years old.
 
 
