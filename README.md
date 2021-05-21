@@ -6,8 +6,15 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 </p>
 
-- 🔭 I’m currently working on [BackIndustria](http://www.backindustria.com.br/) as a Full-Stack Developer
+- 🏝 I'm from Paraná, Brazil
 
-- 🚀 Currently studying **ReactJS, ReactNative, NextJS, NodeJS**
+- 🔭 I’m currently working on [BackIndustria](http://www.backindustria.com.br/) as a full-stack developer
+
+- 🚀 Currently learning **TypeScript, NextJS, NodeJS**
 
 - 📫 How to reach me **alan_tomaiz@hotmail.com**
+
+## Coding Actibity
+<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=alantomaizcount_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=alantomaiz&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
