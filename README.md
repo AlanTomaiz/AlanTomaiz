@@ -26,7 +26,7 @@
 
 <br>
 <br>
-<p align="center">
+<p>
   <a href="https://codepen.io/alantomaiz" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alantomaiz" height="20" width="20" />
   </a>
