@@ -21,6 +21,4 @@
 
 <br>
 <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/alantomaiz/"><img alt="AlanTomaiz" src="https://img.shields.io/badge/-AlanTomaiz-5965e0?style=flat&logo=Linkedin&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/alantomaiz/"><img alt="AlanTomaiz" src="https://img.shields.io/badge/-AlanTomaiz-5965e0?style=flat&logo=Linkedin&logoColor=white" /></a>
