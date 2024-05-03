@@ -5,9 +5,9 @@
 </p>
 
 :octocat: Welcome to my **Github** profile.
-- 🙋🏻 My name is Alanderson Tomaiz and i'm 24 years old
+- 🙋🏻 My name is Alanderson Tomaiz and i'm 28 years old
 - 🏝 I'm from Paraná, Brazil
-- 🔭 I’m currently working on [Flip CRM](https://flipcrm.com.br/) as a **full-stack developer**
+- 🔭 I’m currently working on [GFT](https://www.gft.com/br/pt) as a **back-end developer**
 - 🚀 Currently learning **TypeScript, NextJS, NodeJS and React Native**
 - 📫 How to reach me **alan_tomaiz@hotmail.com**
 
